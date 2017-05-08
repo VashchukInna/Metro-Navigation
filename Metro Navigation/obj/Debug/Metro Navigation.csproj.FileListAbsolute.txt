@@ -1,0 +1,14 @@
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\bin\Debug\Metro Navigation.exe.config
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\Metro Navigation.exe
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\Metro Navigation.pdb
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\bin\Debug\Metro Navigation.exe
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\bin\Debug\Metro Navigation.pdb
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\Metro Navigation.csprojResolveAssemblyReference.cache
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\MainWindow.g.cs
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\App.g.cs
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\Metro Navigation_MarkupCompile.cache
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\Metro Navigation_MarkupCompile.lref
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\MainWindow.baml
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\Metro Navigation.g.resources
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\Metro_Navigation.Properties.Resources.resources
+C:\Users\InnaVaschuk\Desktop\Final changes\Metro Navigation\Metro Navigation\obj\Debug\Metro Navigation.csproj.GenerateResource.Cache
