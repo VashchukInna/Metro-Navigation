@@ -185,6 +185,11 @@
         <Ellipse Tag="20"  Name="G17" HorizontalAlignment="Left" Height="8" Margin="459,368,0,0"
                  VerticalAlignment="Top" Width="9" RenderTransformOrigin="0.778,2.542"/>
 
+        <Ellipse Tag="11"  Name="Lvivska_Brama" Height="20" Width="22" HorizontalAlignment="Left" Margin="419,227,0,0" 
+                 Fill="White" Stroke="Green" VerticalAlignment="Top"/>
+        <Ellipse Tag="42" Name="G46" HorizontalAlignment="Left" Height="8" Margin="667,618,0,0"
+                 VerticalAlignment="Top" Width="9" RenderTransformOrigin="0.778,2.542"/>
+
         <Ellipse Tag="21"  Name="Zoloti_Vorota" Height="20" Width="22" HorizontalAlignment="Left" Margin="506,304,0,0"
                  Fill="White" Stroke="Green" VerticalAlignment="Top" RenderTransformOrigin="0.056,0.507"/>
         <Ellipse Tag="22"  Name="G18" HorizontalAlignment="Left" Height="8" Margin="485,408,0,0"
@@ -245,6 +250,11 @@
         <Ellipse Tag="47" Name="G38" HorizontalAlignment="Left" Height="8" Margin="741,627,0,0"
                  VerticalAlignment="Top" Width="9" RenderTransformOrigin="0.778,2.542"/>
         <Ellipse Tag="48" Name="G39" HorizontalAlignment="Left" Height="8" Margin="755,627,0,0"
+                 VerticalAlignment="Top" Width="9" RenderTransformOrigin="0.778,2.542"/>
+
+        <Ellipse Tag="49"  Name="Telychka" Height="20" Width="22" HorizontalAlignment="Left" Margin="779,439,0,0"
+                 Fill="White" Stroke="Green" VerticalAlignment="Top"/>
+        <Ellipse Tag="50"  Name="G47" HorizontalAlignment="Left" Height="8" Margin="786,620,0,0"
                  VerticalAlignment="Top" Width="9" RenderTransformOrigin="0.778,2.542"/>
 
         <Ellipse Tag="49"  Name="Slavutych" Height="20" Width="22" HorizontalAlignment="Left" Margin="808,464,0,0"

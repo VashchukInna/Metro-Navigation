@@ -32,15 +32,15 @@ namespace Metro_Navigation
                                    Universytet,Teatralna,Khreshchatyk,Arsenalna,Dnipro,Hidropark,Livoberezhna,Darnytsia,Chernihivska,Lisova,
                                    Heroiv_Dnipra,Minska,Obolon,Petrivka,Tarasa_Shevchenka,Kontraktova_Ploshcha, Poshtova_Ploshcha,Maidan_Nezalezhnosti,
                                    Ploshcha_Lva_Tolstoho,Olimpiiska,Palats_Ukrayina,Lybidska,Demiivska,Holosiivska,Vasylkivska,Vystavkovyi_Tsentr,
-                                   Ipodrom,Teremky,Syrets,Dorohozhychi,Lykianivska,Zoloti_Vorota,Palats_Sportu,Klovska,Pecherska,Druzhby_Narodiv,
-                                   Vydubychi,Slavutych,Osokorky,Pozniaky,Kharkivska,Boryspilska,Vyrlytsia,Chervonyi_Khutir};
+                                   Ipodrom,Teremky,Syrets,Dorohozhychi,Lykianivska,Lvivska_Brama,Zoloti_Vorota,Palats_Sportu,Klovska,Pecherska,Druzhby_Narodiv,
+                                   Vydubychi,Telychka,Slavutych,Osokorky,Pozniaky,Kharkivska,Boryspilska,Vyrlytsia,Chervonyi_Khutir};
             _redLine = new[] {Academmistechko,Zhytomyrska,Sviatoshyn,Nyvky,Beresteiska,Shuliavska,Politekhnichnyi_Instytut,Voksalna,
                                      Universytet,Teatralna,Khreshchatyk,Arsenalna,Dnipro,Hidropark,Livoberezhna,Darnytsia,Chernihivska,Lisova};
             _blueLine = new[] {Heroiv_Dnipra,Minska,Obolon,Petrivka,Tarasa_Shevchenka,Kontraktova_Ploshcha,
                                       Poshtova_Ploshcha,Maidan_Nezalezhnosti,Ploshcha_Lva_Tolstoho,Olimpiiska,Palats_Ukrayina,Lybidska,Demiivska,
                                       Holosiivska,Vasylkivska,Vystavkovyi_Tsentr,Ipodrom,Teremky};
-            _greenLine = new[] {Syrets,Dorohozhychi,Lykianivska,Zoloti_Vorota,Palats_Sportu,Klovska,Pecherska,Druzhby_Narodiv,Vydubychi,
-                                       Slavutych,Osokorky,Pozniaky,Kharkivska,Boryspilska,Vyrlytsia,Chervonyi_Khutir};
+            _greenLine = new[] {Syrets,Dorohozhychi,Lykianivska,Lvivska_Brama,Zoloti_Vorota,Palats_Sportu,Klovska,Pecherska,Druzhby_Narodiv,Vydubychi,
+                                       Telychka,Slavutych,Osokorky,Pozniaky,Kharkivska,Boryspilska,Vyrlytsia,Chervonyi_Khutir};
             _getAllRed = new[] { Academmistechko,R1,R2,Zhytomyrska,R3,Sviatoshyn,R4,Nyvky,R5,Beresteiska,R6,Shuliavska,R7,R8,Politekhnichnyi_Instytut,
                                 R9,R10,R11,Voksalna,R12,R13,Universytet,R14,R15,Teatralna,R16,Khreshchatyk,R17,R18,R19, Arsenalna,R20,R21,Dnipro,
                                 R22,R23,R24,Hidropark,R25,R26,R27,Livoberezhna,R28,R29,Darnytsia,R30,Chernihivska,R31,Lisova};
@@ -48,9 +48,9 @@ namespace Metro_Navigation
                                   Poshtova_Ploshcha,B13,B14,B15,Maidan_Nezalezhnosti,B16,B17,Ploshcha_Lva_Tolstoho,B18,Olimpiiska,B19,B20,B21,Palats_Ukrayina,
                                   B22,B23,Lybidska,B24,B25,B26,Demiivska,B27,B28,Holosiivska,B29,B30,B31,B32,Vasylkivska,B33,Vystavkovyi_Tsentr,
                                   B34,Ipodrom,B35,B36,B37,B38,Teremky};
-            _getAllGreen = new[] {Syrets,G1,G2,Dorohozhychi,G3,G4,G5,G6,G7,G8,Lykianivska,G9,G10,G11,G12,G13,G14,G15,G16,G17,Zoloti_Vorota,G18,G19,
+            _getAllGreen = new[] {Syrets,G1,G2,Dorohozhychi,G3,G4,G5,G6,G7,G8,Lykianivska,G9,G10,G11,G12,G13,G14,G15,G16,G17,Lvivska_Brama,G46,Zoloti_Vorota,G18,G19,
                                   Palats_Sportu,G20,G21,Klovska,G22,G23,G24,Pecherska,G25,G26,G27,Druzhby_Narodiv,G28,G29,G30,G31,G32,Vydubychi,
-                                  G33,G34,G35,G36,G37,G38,G39,Slavutych,G40,Osokorky,G41,Pozniaky,G42,Kharkivska,G43,Boryspilska,G44,Vyrlytsia,G45,Chervonyi_Khutir};
+                                  G33,G34,G35,G36,G37,G38,G39,Telychka,G47,Slavutych,G40,Osokorky,G41,Pozniaky,G42,Kharkivska,G43,Boryspilska,G44,Vyrlytsia,G45,Chervonyi_Khutir};
             ClickOnStation();
             _timer.Tick += Timer;
             _timer.Interval = new TimeSpan(0, 0, 0, 0, 5);
